@@ -1,7 +1,6 @@
-# Again another algorithm that breaks down problems into smaller problems.
+# Again another algorithm that breaks down problems into smaller problems in terms command and conquer.
 
 # Implementation
-
 from random import randint
 
 def quicksort(lst, start, end):
