@@ -15,6 +15,8 @@ All algorithms written in Python in addition the meaning behind the algorithm
  Searching:
  - Linear Search
  - Binary Search
+ 
+ Graphs and Trees
  - Depth-first Search
  - Binary Search Tree
  
