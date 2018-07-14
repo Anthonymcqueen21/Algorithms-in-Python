@@ -1,7 +1,6 @@
 # Bubble sorting is an algorithm which is used to sort a list of elements in arrays.
 
 # Implementation
-
 def bubble_sort(nlist):
    for passnum in
 range(len(nlist)-1,0,-1):
