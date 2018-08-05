@@ -2,7 +2,6 @@
 
 # Implementation
 from random import randint
-
 def quicksort(lst, start, end):
    if start < end:
       pivot = randint(start, end)
