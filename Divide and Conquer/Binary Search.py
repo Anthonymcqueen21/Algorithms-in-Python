@@ -1,7 +1,6 @@
 # One of the fastest search algorithms for sorting list
 
 #Implementation
-
 def binary_search(my_list, l, r, x):
    if r >= 1:
      mid = l + (r - l)//2
