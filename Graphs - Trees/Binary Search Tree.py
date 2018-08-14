@@ -10,4 +10,4 @@ def search(root, data):
    if root.data < data:
       return search(root.right,data)
    else:
-      return search(root.left, data)
+return search(root.left, data)
