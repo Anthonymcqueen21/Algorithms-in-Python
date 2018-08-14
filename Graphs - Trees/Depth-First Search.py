@@ -6,4 +6,4 @@ def dfs(graph, vertex, path=[]):
    for neighbor in graph[vertex]:
       if neighbor no in path:
          path = dfs(graph, neighbor, path)
-  return path
+return path
