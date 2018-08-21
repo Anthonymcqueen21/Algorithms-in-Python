@@ -1,7 +1,6 @@
 # Selection sorting is a alogorithm that finds a small element and switches it within the array
 
 #Implementation
-
 def selection_sort(arr):
    for k in range(len(arr):
      min_index = k # smallest elements
