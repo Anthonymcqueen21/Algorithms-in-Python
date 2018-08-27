@@ -1,5 +1,4 @@
 # Insertion sort is about rearranging elements
-
 # Implementation
 
 def insertion_sort(arr):
