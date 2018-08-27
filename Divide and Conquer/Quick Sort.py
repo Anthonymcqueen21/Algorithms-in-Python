@@ -5,6 +5,7 @@ from random import randint
 def quicksort(lst, start, end):
    if start < end:
       pivot = randint(start, end)
+      
       # swap with the last element
 lst[end],lst[pivot] = lst[pivot],lst[end]
      # partition the list
