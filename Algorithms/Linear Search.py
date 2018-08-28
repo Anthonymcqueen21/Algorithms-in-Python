@@ -5,4 +5,4 @@ def search(x, my_list):
    for k in range(len(my_list)):
      if my_list[k] == x:
        return k
-     return - 1
+return - 1
