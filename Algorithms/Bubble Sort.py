@@ -8,6 +8,8 @@ for i in range(len(nlist)-1,0,-1):
    for j in range(passnum):
       if nlist[j]>nlist[j+1]:
    nlist[j], nlist[j+1] = nlist[j+1], nlist[j]
+   
+return bubble_sort
 
    
 # Defining num_swaps and count_swaps in a problem statement
