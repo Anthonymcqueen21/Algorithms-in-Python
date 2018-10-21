@@ -8,3 +8,6 @@ def selection_sort(arr):
        if arr[min_index] > arr[j]:
          min_index = j
    arr[k], arr[min_index] = arr[min_index], arr[k]
+                  
+                  
+                  # Select and sort the algorithm
